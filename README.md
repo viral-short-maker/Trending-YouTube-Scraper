@@ -8,6 +8,8 @@ Trending YouTube videos for whatever country you are in currently can be found [
 
 ### API Key
 
+
+
 In order to use this script, you will need a valid API key for the YouTube Data API. It is free and the instructions for doing so are [here](https://developers.google.com/youtube/registering_an_application). It is slightly awkward to get a key, but if you follow the instructions you should be ok.
 
 Once you have the key, put it inside a text file named `api_key.txt` in the same directory as the script, or if it's not in the same directory you can target it with the `--key_path` parameter.
